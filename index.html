@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>DOC</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <meta name="description" content="Description">
+    <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <!-- Theme: Simple Dark -->
+    <link rel="stylesheet" href="docsifyServeFile/theme-simple.css">
+
+    <style>
+        /* css没有, 加这里 */
+
+        .section-link {
+            /* 设置目录文字字体大小 & 行高 */
+            font-size: 12px;
+            line-height: 16px;
+        }
+    </style>
+</head>
+
+<body>
+    <div id="app"></div>
+    <script>
+        window.$docsify = {
+            //文档名称
+            name: 'Doc',
+            homepage: '_navbar.md',
+
+            //上方导航栏  
+            loadNavbar: true,
+
+            //左侧导航栏
+            // loadSidebar: true,
+            // subMaxLevel: 2,
+
+            maxLevel: 6, //默认展示目录级数
+
+            //页面标题
+            autoHeader: true,
+
+            search: 'auto',
+            // relativePath: true,
+        }
+    </script>
+    <script src="docsifyServeFile/docsify.js"></script>
+    <!--搜索-->
+    <!-- <script src="//unpkg.com/docsify/lib/plugins/search.js"></script> -->
+    <script src="docsifyServeFile/search.js"></script>
+    <!--图片缩放-->
+    <script src="docsifyServeFile/zoom-image.js"></script>
+    <!--copy-->
+    <script src="docsifyServeFile/docsify-copy-code.min.js"></script>
+
+    <!--code Hightlight-->
+    <script src="docsifyServeFile/prismjs/prism-bash.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-python.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-py.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-autoit.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-batch.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-bat.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-cpp.js"></script>
+    <script src="docsifyServeFile/prismjs/prism-c.js"></script>
+</body>
+
+</html>
