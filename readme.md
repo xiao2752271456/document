@@ -1,3 +1,0 @@
-# home readme
-
-readme text.
