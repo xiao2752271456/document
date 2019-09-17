@@ -2,6 +2,7 @@
 - PYTHON
     - [python](py/py.md)
     - [auto](py/auto.md)
+    - [spider](py/spider.md)
 - LINUX
   - [linux](linux/linux.md) 
 - Other

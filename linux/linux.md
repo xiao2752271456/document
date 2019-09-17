@@ -4,7 +4,7 @@
 
 - linux 方向
 
-[到什么程度才叫精通Linux]https://www.zhihu.com/question/23834032/answer/695582133
+[到什么程度才叫精通Linux](https://www.zhihu.com/question/23834032/answer/695582133)
 
 
 ## ref
@@ -15,16 +15,18 @@
 
 [Linux command_zh](https://man.linuxde.net/)
 
+[Linux Tools Quick Tutorial](https://linuxtools-rst.readthedocs.io/zh_CN/latest/index.html)
+
 [Linux和shell回炉复习](https://www.cnblogs.com/f-ck-need-u/p/7048359.html)
 
 - booklist
 
-<Linux从入门到精通>
+Linux从入门到精通
 
-<鸟哥的Linux私房菜>  
+鸟哥的Linux私房菜  
 [鸟哥的Linux私房菜简体首页](https://link.zhihu.com/?target=http%3A//cn.linux.vbird.org/)
 
-<Linux命令行与shell脚本编程大全(第3版)>
+Linux命令行与shell脚本编程大全(第3版)
 
 其他书单: https://www.zhihu.com/question/36869538
 
